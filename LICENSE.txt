@@ -1,0 +1,24 @@
+Copyright (c) 2026 Sygmatch. Todos los derechos reservados.
+
+El presente software (Sygmatch Downloader y su automatización asociada) es 
+propiedad exclusiva de su autor. Queda estrictamente prohibida la copia, 
+modificación, distribución, sublicencia, comercialización o reventa de este 
+ejecutable o de su código fuente sin la autorización previa y por escrito del autor.
+
+El uso de este ejecutable requiere de un código de activación válido emitido 
+directamente por el autor. El cobro asociado a dicho código de activación aplica 
+únicamente por el desarrollo, diseño, soporte y empaquetado de esta herramienta 
+propietaria de automatización.
+
+Este software hace uso opcional de utilidades externas de código abierto 
+(tales como "yt-dlp" y "ffmpeg") únicamente mediante llamadas de línea de 
+comandos como motores auxiliares. Dichas herramientas pertenecen a sus 
+respectivos creadores y se rigen bajo sus propias licencias libres y gratuitas, 
+por lo que no forman parte de este acuerdo comercial ni de ningún cobro.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, 
+EXPRESA O IMPLÍCITA. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT 
+SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, 
+YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, 
+QUE SURJA DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS 
+EN EL SOFTWARE.
