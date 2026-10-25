@@ -59,7 +59,7 @@ Funciona con YouTube y con muchísimos otros sitios de video y audio.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
-│ SYGMATCH            ● Estado de licencia   [Licencia]   [☀ / 🌙]     │  ← cabecera
+│ SYGMATCH            ● Estado de licencia   [Licencia]   [☀ / 🌙]    │  ← cabecera
 ├───────────────────────────┬──────────────────────────────────────────┤
 │  OPCIONES (izquierda)     │  PROGRESO Y REGISTRO (derecha)           │
 │  Enlaces                  │  Barra de progreso, velocidad, tiempo    │
